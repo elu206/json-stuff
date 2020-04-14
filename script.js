@@ -17,7 +17,7 @@ let jsonDatabase = [
     "title" : "goat number four",
     "picture_url" : "https://images.unsplash.com/photo-1524024973431-2ad916746881?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80",
     "background_color" : "#",
-    "thoughts" : ["what a funky little man", "looks kind of like an alien", "these sound kind of mean but i meant them in the best way.  i love this guy as well"]
+    "thoughts" : ["what a funny little man", "looks kind of like an alien", "these sound kind of mean but i meant them in the best way.  i love this guy as well"]
   },
   {
     "title" : "goat number five",
